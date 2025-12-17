@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/nodejs-wffaxxua:35f56c948b301f4d076003c2f24445d9da041b68@sha256:bcba03e9e839254340bb708c1d4ebffc9dd58da6d0e50845810a1abbd027ffa4
+        - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/nodejs-wffaxxua:0d64486848fb01f70536f00b47f1a3683d1f108d@sha256:4caab70d9d6d0a75e61fb03a371c0f2a06d551291acfb17ff02f05ca8f3498e3
           name: container-image
